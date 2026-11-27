@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="146" viewBox="0 0 600 146" role="img" aria-label="Today's Thought: The most dangerous phrase in the language is: We&#x27;ve always done it this way. - Grace Hopper">
+  <rect x="1" y="1" width="598" height="144" rx="12" fill="#0D1117" stroke="#1F6FEB" stroke-width="1.5"/>
+  <text x="32" y="28" fill="#58A6FF" font-family="'Segoe UI', -apple-system, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="0.6">TODAY'S THOUGHT  ·  Nov 27, 2026</text>
+  <text fill="#C9D1D9" font-family="'Segoe UI', -apple-system, Arial, sans-serif" font-size="17" font-style="italic" font-weight="500">
+    <tspan x="32" y="54">&quot;The most dangerous phrase in the language is: We&#x27;ve</tspan>
+    <tspan x="32" y="78">always done it this way.&quot;</tspan>
+  </text>
+  <text x="568" y="120" text-anchor="end" fill="#38BDF8" font-family="'Segoe UI', -apple-system, Arial, sans-serif" font-size="14" font-weight="700">— Grace Hopper</text>
+</svg>

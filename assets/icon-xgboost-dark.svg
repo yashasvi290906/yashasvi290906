@@ -1,0 +1,6 @@
+<svg width="48" height="48" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="XGBoost">
+  <rect width="256" height="256" rx="60" fill="#242938"/>
+  <path d="M52 72 L106 128 L52 184" stroke="#38BDF8" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M124 72 L70 128 L124 184" stroke="#58A6FF" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="172" y="148" text-anchor="middle" fill="#FFFFFF" font-family="'Segoe UI', Arial, sans-serif" font-size="68" font-weight="800">GB</text>
+</svg>
