@@ -83,24 +83,24 @@ I'm an AI/ML undergraduate interested in building reliable software and intellig
 
 #### ✦ Frontend
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind&theme=dark&perline=4" />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind&theme=light&perline=4" alt="Frontend: React, Next.js, TypeScript, Tailwind CSS" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Cts%2Ctailwind&theme=dark&perline=4" />
+  <img src="https://skillicons.dev/icons?i=react%2Cnextjs%2Cts%2Ctailwind&theme=light&perline=4" alt="Frontend: React, Next.js, TypeScript, Tailwind CSS" />
 </picture>
 
 <br/><br/>
 
 #### ✦ Backend
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,fastapi,nodejs,java&theme=dark&perline=4" />
-  <img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,java&theme=light&perline=4" alt="Backend: Python, FastAPI, Node.js, Java" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cfastapi%2Cnodejs%2Cjava&theme=dark&perline=4" />
+  <img src="https://skillicons.dev/icons?i=py%2Cfastapi%2Cnodejs%2Cjava&theme=light&perline=4" alt="Backend: Python, FastAPI, Node.js, Java" />
 </picture>
 
 <br/><br/>
 
 #### ✦ Applied AI/ML
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark&perline=4" />
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=light&perline=4" height="48" alt="Applied AI/ML: PyTorch, TensorFlow, scikit-learn, OpenCV" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch%2Ctensorflow%2Csklearn%2Copencv&theme=dark&perline=4" />
+  <img src="https://skillicons.dev/icons?i=pytorch%2Ctensorflow%2Csklearn%2Copencv&theme=light&perline=4" height="48" alt="Applied AI/ML: PyTorch, TensorFlow, scikit-learn, OpenCV" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/icon-xgboost-dark.svg" />
@@ -111,8 +111,8 @@ I'm an AI/ML undergraduate interested in building reliable software and intellig
 
 #### ✦ Database & Tools
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,supabase,git,gcp,aws,vscode&theme=dark&perline=6" />
-  <img src="https://skillicons.dev/icons?i=postgres,supabase,git,gcp,aws,vscode&theme=light&perline=6" alt="Database and Tools: PostgreSQL, Supabase, Git, Google Cloud, AWS, VS Code" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres%2Csupabase%2Cgit%2Cgcp%2Caws%2Cvscode&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=postgres%2Csupabase%2Cgit%2Cgcp%2Caws%2Cvscode&theme=light&perline=6" alt="Database and Tools: PostgreSQL, Supabase, Git, Google Cloud, AWS, VS Code" />
 </picture>
 
 </div>
